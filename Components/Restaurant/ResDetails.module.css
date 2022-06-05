@@ -1,0 +1,50 @@
+.main{
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    color: bisque;
+    margin: 10px auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.image{    
+   height: 300px;
+   text-align: center;
+   margin-top: 15px;
+}
+
+.image img{
+    width: 250px;
+   height: 250px;
+    border-radius: 50%;
+}
+
+.main h1{
+   font-size: 40px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: oblique
+   ;
+   color: orange;
+}
+
+.text{
+    width: 70%;
+    margin: auto;
+    font-weight: bolder;
+    font-size: larger;
+   
+}
+
+.date{
+    font-size: 20px;
+    color: yellow;
+    margin-top: 5px;
+}
+
+.address{
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}

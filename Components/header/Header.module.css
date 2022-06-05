@@ -1,0 +1,13 @@
+.main{
+    background-color: crimson;
+    color: bisque;
+}
+
+.header{
+    width: 80%;
+    margin: auto;   
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,27 @@
+.email{
+    margin: 5px auto;
+    width: 400px;
+    height: 3rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: crimson;
+}
+.email label{
+
+    color: white;
+    margin-right: 5px;
+  
+}
+
+.email input {
+    padding: 3px 5px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+.email button{
+    padding: 3px 10px;
+    border-radius: 3px;
+    border: 1px solid black;
+}

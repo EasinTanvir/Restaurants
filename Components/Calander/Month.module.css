@@ -1,0 +1,48 @@
+.option{
+    margin: 10px auto;
+    width: 410px;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: deeppink;
+    color: bisque;
+    border-radius: 5px;  
+
+}
+
+.option label{
+
+    margin: 0px 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+
+.option select{
+    
+    padding: 3px;
+    border-radius: 3px;
+}
+
+
+
+
+
+.btn button{
+  
+    margin-left: 10px;
+    padding: 4px 15px;
+    border-radius: 3px;
+    border: 1px solid black;
+    color: whitesmoke;
+    background-color: black;
+
+
+}
+
+.btn button:hover{
+    color: gray;
+}
+   
+
